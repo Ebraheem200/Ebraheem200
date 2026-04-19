@@ -8,7 +8,7 @@ I like working on projects that combine clean design, real-world functionality, 
 
 ## About Me
 
-- Computer Science student graduating in May 2026
+- Computer Science student 
 - Experience with computer vision, OCR, Python scripting, databases, and mobile development
 - Interested in AI/ML, iOS development, cloud, and full-stack software engineering
 - Currently improving my skills in SwiftUI, Python, AWS, and system design
